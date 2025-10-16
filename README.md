@@ -21,6 +21,6 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YourUsername/evol-jewels.git
+git clone https://github.com/VishnuV5/EVOL-JEWELS
 cd EVOL-JEWELS
 
